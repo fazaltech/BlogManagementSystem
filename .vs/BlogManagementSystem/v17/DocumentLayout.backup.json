@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Fazal\\source\\repos\\BlogManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{268720E3-D144-4E56-92C2-6EA7BBD9B05E}|BlogManagementSystem\\BlogManagementSystem.csproj|c:\\users\\fazal\\source\\repos\\blogmanagementsystem\\blogmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268720E3-D144-4E56-92C2-6EA7BBD9B05E}|BlogManagementSystem\\BlogManagementSystem.csproj|solutionrelative:blogmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268720E3-D144-4E56-92C2-6EA7BBD9B05E}|BlogManagementSystem\\BlogManagementSystem.csproj|c:\\users\\fazal\\source\\repos\\blogmanagementsystem\\blogmanagementsystem\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{268720E3-D144-4E56-92C2-6EA7BBD9B05E}|BlogManagementSystem\\BlogManagementSystem.csproj|solutionrelative:blogmanagementsystem\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268720E3-D144-4E56-92C2-6EA7BBD9B05E}|BlogManagementSystem\\BlogManagementSystem.csproj|c:\\users\\fazal\\source\\repos\\blogmanagementsystem\\blogmanagementsystem\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268720E3-D144-4E56-92C2-6EA7BBD9B05E}|BlogManagementSystem\\BlogManagementSystem.csproj|solutionrelative:blogmanagementsystem\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268720E3-D144-4E56-92C2-6EA7BBD9B05E}|BlogManagementSystem\\BlogManagementSystem.csproj|c:\\users\\fazal\\source\\repos\\blogmanagementsystem\\blogmanagementsystem\\data\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268720E3-D144-4E56-92C2-6EA7BBD9B05E}|BlogManagementSystem\\BlogManagementSystem.csproj|solutionrelative:blogmanagementsystem\\data\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268720E3-D144-4E56-92C2-6EA7BBD9B05E}|BlogManagementSystem\\BlogManagementSystem.csproj|c:\\users\\fazal\\source\\repos\\blogmanagementsystem\\blogmanagementsystem\\data\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268720E3-D144-4E56-92C2-6EA7BBD9B05E}|BlogManagementSystem\\BlogManagementSystem.csproj|solutionrelative:blogmanagementsystem\\data\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268720E3-D144-4E56-92C2-6EA7BBD9B05E}|BlogManagementSystem\\BlogManagementSystem.csproj|c:\\users\\fazal\\source\\repos\\blogmanagementsystem\\blogmanagementsystem\\data\\models\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268720E3-D144-4E56-92C2-6EA7BBD9B05E}|BlogManagementSystem\\BlogManagementSystem.csproj|solutionrelative:blogmanagementsystem\\data\\models\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Fazal\\source\\repos\\BlogManagementSystem\\BlogManagementSystem\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BlogManagementSystem\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Fazal\\source\\repos\\BlogManagementSystem\\BlogManagementSystem\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BlogManagementSystem\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-30T12:26:16.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "C:\\Users\\Fazal\\source\\repos\\BlogManagementSystem\\BlogManagementSystem\\Data\\Models\\Blog.cs",
+              "RelativeDocumentMoniker": "BlogManagementSystem\\Data\\Models\\Blog.cs",
+              "ToolTip": "C:\\Users\\Fazal\\source\\repos\\BlogManagementSystem\\BlogManagementSystem\\Data\\Models\\Blog.cs",
+              "RelativeToolTip": "BlogManagementSystem\\Data\\Models\\Blog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T11:28:07.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RefreshToken.cs",
+              "DocumentMoniker": "C:\\Users\\Fazal\\source\\repos\\BlogManagementSystem\\BlogManagementSystem\\Data\\Models\\RefreshToken.cs",
+              "RelativeDocumentMoniker": "BlogManagementSystem\\Data\\Models\\RefreshToken.cs",
+              "ToolTip": "C:\\Users\\Fazal\\source\\repos\\BlogManagementSystem\\BlogManagementSystem\\Data\\Models\\RefreshToken.cs",
+              "RelativeToolTip": "BlogManagementSystem\\Data\\Models\\RefreshToken.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwBoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T10:50:26.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Fazal\\source\\repos\\BlogManagementSystem\\BlogManagementSystem\\Data\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "BlogManagementSystem\\Data\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Fazal\\source\\repos\\BlogManagementSystem\\BlogManagementSystem\\Data\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "BlogManagementSystem\\Data\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T10:30:10.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Fazal\\source\\repos\\BlogManagementSystem\\BlogManagementSystem\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "BlogManagementSystem\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Fazal\\source\\repos\\BlogManagementSystem\\BlogManagementSystem\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "BlogManagementSystem\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T10:28:54.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Fazal\\source\\repos\\BlogManagementSystem\\BlogManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "BlogManagementSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\Fazal\\source\\repos\\BlogManagementSystem\\BlogManagementSystem\\Program.cs",
+              "RelativeToolTip": "BlogManagementSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T10:19:02.577Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
